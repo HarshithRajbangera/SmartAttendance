@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+scikit-learn
+insightface
+fpdf
+pillow
+onnxruntime
